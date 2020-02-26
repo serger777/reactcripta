@@ -1,0 +1,35 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.name{
+  width: 20%;
+}
+.button{
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  margin: 0;
+  background: none;
+  border: none;
+  svg{
+    pointer-events: none;
+  }
+}
+.wrap_name{
+  width: 50px;
+  display: flex;
+  align-items: center;
+}
+.wrap_value{
+  width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.item{
+  width: 100% ;
+}
+.root{
+  color:black;
+}

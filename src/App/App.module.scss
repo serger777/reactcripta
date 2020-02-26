@@ -1,0 +1,10 @@
+*{
+  font-family: Roboto;
+}
+.wrap{
+  width: 420px;
+  margin: 0 auto;
+  @media (max-width: 768px){
+    width: 100%;
+  }
+}
