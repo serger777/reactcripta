@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactcripta/static/css/main.086a47c0.chunk.css",
+    "main.js": "/reactcripta/static/js/main.d7978b89.chunk.js",
+    "main.js.map": "/reactcripta/static/js/main.d7978b89.chunk.js.map",
+    "runtime-main.js": "/reactcripta/static/js/runtime-main.4aca5172.js",
+    "runtime-main.js.map": "/reactcripta/static/js/runtime-main.4aca5172.js.map",
+    "static/js/2.6c5bd136.chunk.js": "/reactcripta/static/js/2.6c5bd136.chunk.js",
+    "static/js/2.6c5bd136.chunk.js.map": "/reactcripta/static/js/2.6c5bd136.chunk.js.map",
+    "index.html": "/reactcripta/index.html",
+    "precache-manifest.dabf4fa34b3ea28028af68d9ddf2b6e6.js": "/reactcripta/precache-manifest.dabf4fa34b3ea28028af68d9ddf2b6e6.js",
+    "service-worker.js": "/reactcripta/service-worker.js",
+    "static/css/main.086a47c0.chunk.css.map": "/reactcripta/static/css/main.086a47c0.chunk.css.map",
+    "static/js/2.6c5bd136.chunk.js.LICENSE.txt": "/reactcripta/static/js/2.6c5bd136.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aca5172.js",
+    "static/js/2.6c5bd136.chunk.js",
+    "static/css/main.086a47c0.chunk.css",
+    "static/js/main.d7978b89.chunk.js"
+  ]
+}
